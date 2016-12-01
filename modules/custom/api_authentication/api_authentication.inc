@@ -10,7 +10,7 @@
 /**
  * Authenticates a call using a key to verify the request.
  */
-function _api_authentication_authenticate_call() {
+function _api_authentication_authenticate_call() {hi
   $request = getallheaders();
   $key = $request['Key'];
   $authkey = variable_get('api_authentication_key', NULL);
