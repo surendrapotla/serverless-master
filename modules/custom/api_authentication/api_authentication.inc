@@ -3,7 +3,7 @@
 /**
  * @file
  * api_authentication.inc
- * hi
+ *
  * Include file for api_authentication module.
  */
 
